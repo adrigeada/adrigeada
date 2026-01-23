@@ -1,6 +1,6 @@
 ## Hola, soy Adrián Geada 👋
-<p>Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma del instituto IES MUTXAMEL y este es mi primer repositorio</p>
-<p>Tengo ganas de ganar experiencia y seguir aprendiendo.</p>
+<p>Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma del instituto IES MUTXAMEL y este es mi primer repositorio.</p>
+<p>Tengo ganas de ganar experiencia y seguir aprendiendo en este sector.</p>
 
 ## Lenguajes Conocidos 💻
 <ul>
