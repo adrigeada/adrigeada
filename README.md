@@ -1,5 +1,6 @@
 ## Hola, soy Adrián Geada 👋
 <p>Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma del instituto IES MUTXAMEL y este es mi primer repositorio</p>
+<p>Tengo ganas de ganar experiencia y seguir aprendiendo.</p>
 
 ## Lenguajes Conocidos 💻
 <ul>
@@ -8,6 +9,13 @@
   <li>CSS - Nivel básico</li>
   <li>SQL - Nivel básico</li>
 </ul>
+
+## Habilidades 🏢
+<ul>
+  <li>Trabajo en metodologías ágiles como Kanban</li>
+  <li>Uso de sistemas de control de versiones</li>
+</ul>
+
 
 <!--
 **adrigeada/adrigeada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
