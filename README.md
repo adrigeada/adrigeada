@@ -1,13 +1,21 @@
 ## Hola, soy Adrián Geada 👋
-<p>Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma del instituto IES MUTXAMEL y este es mi primer repositorio.</p>
+<p>Soy un estudiante de 1º Desarrollo de Aplicaciones Multiplataforma del instituto IES MUTXAMEL y este es mi primer repositorio.</p>
 <p>Tengo ganas de ganar experiencia y seguir aprendiendo en este sector.</p>
 
 ## Lenguajes Conocidos 💻
 <ul>
-  <li>Java - Nivel básico</li>
+  <li>Java - Nivel básico</li> 
   <li>HTML5 - Nivel básico</li>
   <li>CSS - Nivel básico</li>
-  <li>SQL - Nivel básico</li>
+  <li>SQLServer - Nivel básico</li>
+  <br>
+  <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-plain-wordmark.svg" width="50" />
+  </p>
+
 </ul>
 
 ## Habilidades 🏢
