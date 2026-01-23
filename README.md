@@ -1,7 +1,7 @@
 ## Hola, soy Adrián Geada 👋
 <p>Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma del instituto IES MUTXAMEL y este es mi primer repositorio</p>
 
-## Lenguajes Conocidos
+## Lenguajes Conocidos 💻
 <ul>
   <li>Java - Nivel básico</li>
   <li>HTML5 - Nivel básico</li>
